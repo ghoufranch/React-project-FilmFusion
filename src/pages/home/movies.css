@@ -1,0 +1,9 @@
+.admin-login-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  background-color: #010c80;
+  border-radius: 15px;
+}
